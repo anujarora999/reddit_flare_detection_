@@ -1,7 +1,7 @@
 # Reddit Flair Detector
 
 The link for the app : https://flaredetect.herokuapp.com
-The link for automated testing(also avaialable through the app) : https://flaredetect.herokuapp.com/automated_testing
+The link for automated testing (also available through the app) : https://flaredetect.herokuapp.com/automated_testing
 
 This is an app to detect flairs of Reddit India, r/india. 
 The app takes input from the user, in the form of URL for the post and return the predicted and actual flair of the post. The application has used been deployed on Heroku server. It also has an option of automated tesing the app. 
