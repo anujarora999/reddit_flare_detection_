@@ -51,7 +51,8 @@ The app is deployed on heroku using this github repository.
 ## Automated testing:
 
 The app also provides a benefit o automated testing.
-###How to use:
+
+### How to use:
 
 Send a post request to [Link](https://flaredetect.herokuapp.com/automated_testing) with a text file.
 
