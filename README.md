@@ -33,17 +33,20 @@ The app is deployed on heroku using this github repository.
 
 ## Accuracy:
 - Naive Bayes: 
+
 	- Using title as a feature:0.54
 	- Using body as a feature:0.22
 	- Using comments as a feature:0.21
 	- Using combine as feature:0.30
+	
 - Support vector machine:
 	- Using title as a feature:0.52
 	- Using body as a feature:0.23
 	- Using comments as a feature:0.51
 	- Using combine as feature:0.63
+	
 - Logistic Regression:
-	Using title as a feature:0.54
+	- Using title as a feature:0.54
 	- Using body as a feature:0.22
 	- Using comments as a feature:0.52
 	- Using combine as feature:0.64	
