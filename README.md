@@ -60,7 +60,7 @@ The app also provides a benefit of automated testing.
 Send a post request to [Link](https://flaredetect.herokuapp.com/automated_testing) with a text file.
 
 ### How it works:
--The app reads all the urls in the file line by line and predict the flair
+The app reads all the urls in the file line by line and predict the flair
 - The same is stored in json file.
 
 ### Output:
