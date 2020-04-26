@@ -50,7 +50,7 @@ The app is deployed on heroku using this github repository.
 	
 ## Automated testing:
 
-The app also provides a benefit o automated testing.
+The app also provides a benefit of automated testing.
 
 ### How to use:
 
